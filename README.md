@@ -1,12 +1,11 @@
-# task_generator
-# task_generator
 
-configuration:.
+
+#configuration:.
 1.config/config.php set the database configuration and path configuration
 2.asset/js/custom.js  set the base url
 3.import the sql file into the db
 
-Some bugs :.
+#Some bugs :.
  1.No loading gif used for ajax reponse time so after click . 
  2.User does not validate that means multiple user with same name can be exist.
  3.Enter does not work login or registration time.
@@ -16,7 +15,7 @@ Some bugs :.
 
 
 
-Not done:.
+#Not done:.
   1.Inline editing 
 
 Php Library used:. 
