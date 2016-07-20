@@ -1,30 +1,30 @@
 
 
 #configuration:.
-1.config/config.php set the database configuration and path configuration
-2.asset/js/custom.js  set the base url
-3.import the sql file into the db
+ • config/config.php set the database configuration and path configuration
+ • asset/js/custom.js  set the base url
+ • import the sql file into the db
 
 #Some bugs :.
- 1.No loading gif used for ajax reponse time so after click . 
- 2.User does not validate that means multiple user with same name can be exist.
- 3.Enter does not work login or registration time.
- 4.Only login and registraion method of api are unit tested 
- 5.Not all the db query are sql injection risk free 
- 6.use default bootstrap theme 
+ • No loading gif used for ajax reponse time so after click . 
+ • User does not validate that means multiple user with same name can be exist.
+ • Enter does not work login or registration time.
+ • Only login and registraion method of api are unit tested 
+ • Not all the db query are sql injection risk free 
+ • use default bootstrap theme 
 
 
 
 #Not done:.
-  1.Inline editing 
+  •Inline editing 
 
 #Php Library used:. 
-  1.Pdo (just for database handleing)
+  •Pdo (just for database handleing)
 
 
 #Others:.
-  1 used bootstrap 3 default theme.
-  2.all javascript code in custom.js 
+  • used bootstrap 3 default theme.
+  • all javascript code in custom.js 
 
 #How it works: 
 	• User	registration with username	and	password
