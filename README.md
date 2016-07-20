@@ -18,15 +18,15 @@
 #Not done:.
   1.Inline editing 
 
-Php Library used:. 
+#Php Library used:. 
   1.Pdo (just for database handleing)
 
 
-Others:.
+#Others:.
   1 used bootstrap 3 default theme.
   2.all javascript code in custom.js 
 
-How it works: 
+#How it works: 
 	• User	registration with username	and	password
 	• List	withall	tasks	created	by	the	current	user
 	• Create	a	new	task	(only	for	the current	user)
